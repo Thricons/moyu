@@ -12,6 +12,6 @@ Oppo watch 1 | 200-300
 Oppo watch 2 | 300-500
 ... | 待补充
 
-其中小米手环7有一定的搞机门槛，Ticwatch Pro使用WearOS系统，没有[Webview](https://zhuanlan.zhihu.com/p/551689759)组件。得到更多的小米手环7搞机技巧请前往[米坛](bandbbs.cn)
+其中小米手环7有一定的搞机门槛，Ticwatch Pro使用WearOS系统，没有[Webview](https://zhuanlan.zhihu.com/p/551689759)组件。得到更多的小米手环7搞机技巧请前往[米坛](https://bandbbs.cn)
 
 # 待补充...
